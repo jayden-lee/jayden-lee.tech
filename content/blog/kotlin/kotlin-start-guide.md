@@ -115,7 +115,7 @@ fun main(args: Array<String>) {
 
 ![](./images/kotlin-hello-world.png)
 
-</br>
+<br/>
 
 <hr>
 
