@@ -1,5 +1,5 @@
 ---
-title: Kotlin 프로그래밍 시작하기 #1
+title: 1. Kotlin 프로그래밍 시작하기
 date: 2019-03-09 23:03:52
 category: kotlin
 ---
