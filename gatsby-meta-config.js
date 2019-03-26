@@ -1,5 +1,5 @@
 module.exports = {
-  title: `JAYDEN-LEE.TECH`,
+  title: `JAYDEN-LEE TECH`,
   description: `Blog posted about development.`,
   author: `Jayden`,
   introduction: `소프트웨어 엔지니어: 주로 자바 언어를 이용하여 개발을 했으며, 최근에는 코틀린 언어에 관심을 갖고 있습니다.`,
